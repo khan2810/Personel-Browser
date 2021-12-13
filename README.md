@@ -1,52 +1,34 @@
-# Personel-Browser
-This repository contains a browser script with some core functionalities of a browser developed in python.
-## ✔ DETECT THE LANGUAGE
-- A "detect The Language" is an application created in python with tkinter gui.
-- In this application, user will be able to write any text or paragraph in any language and can detect that language.
-- for implementing this used nltk and pycountry library in python.
+# ✔ PERSONEL-BROWSER
+- This is my personel browser with some core functionalities of a browser developed in python.
+- In this browser, user will be able to browse anything and can even go to a website directly by their URL.
+- for implementing this I have used PyQt5 library in python.
 
 ****
 
-### REQUIREMENTS :
-- python 3
-- tkinter module
-- from tkinter messagebox module
-- nltk
-- pycountry
-- from nltk.stem import SnowballStemmer
+## Libraries used
+* I have mainly used the **PyQt5** library to implement this.
+* [**_`PyQt5`_**](https://pypi.org/project/PyQt5/) PyQt5 is cross-platform GUI toolkit, a set of python bindings for Qt v5. Qt is set of cross-platform C++ libraries that implement high-level APIs for accessing many aspects of modern desktop and mobile systems. Anyone can develop an interactive desktop application with so much ease because of the tools and simplicity provided by this library.
 
 ****
 
 ### How this Script works :
-- User just need to download the file and run the detect_the_language.py on their local system.
-- Now on the main window of the application the user can click on the START button to get started with main application.
-- ON the new window, user can enter any text or paragraph in the text area provided and by clicking on the LANG. DETECT button, user will be able to detect the language in which text is written.
-- Also there is a CLEAR button, clicking on which user can clears the text area.
-- Also there is an EXIT button, clicking on which exit dialog box appears asking for the permission of the user for closing the window.
+- for using it, you just need to install above library in your system.
+- User just need to download the file and run the my-browser.py on their local system.
+- Now on the main window of the application the user can browse for anything and can go to any websites by their URL.
 
 ### Purrpose :
-- This scripts helps us to easily detect the language of the entered text or paragraph.
-
-### Compilation Steps :
-- Install tkinter, nltk, pycountry
-- After that download the code file, and run detect_the_language.py on local system.
-- Then the script will start running and user can explore it by entering the text in any language and detecting the language for the same.
+- We can just use our own personel browser and surf the internet in it.
 
 ****
 
 ### SCREENSHOTS :
 
 <p align="center">
-  <img width = 1000 src="Images/1.jpg" /><br>
-  <img width = 1000 src="Images/2.jpg" /><br>
-  <img width = 1000 src="Images/3.jpg" /><br>
-  <img width = 1000 src="Images/4.jpg" /><br>
-  <img width = 1000 src="Images/5.jpg" /><br>
-  <img width = 1000 src="Images/6.jpg" /><br>
-  <img width = 1000 src="Images/7.jpg" /><br>
+  <img width = 1000 src="Images/1.png" /><br>
+  <img width = 1000 src="Images/2.png" /><br>
 </p>
 
 ****
 
 ### Author :
-- Akash Ramanand Rajak
+- Amaan Khan
